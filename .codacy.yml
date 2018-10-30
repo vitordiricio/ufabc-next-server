@@ -1,0 +1,7 @@
+exclude_paths:
+  - 'app/node_modules/**/*'
+  - 'app/.nyc_output/**'
+  - 'app/fixtures/**'
+  - 'app/fixtures/**/*'
+  - 'app/snapshot/**'
+  - 'app/snapshot/**/*'
